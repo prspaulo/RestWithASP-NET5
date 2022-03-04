@@ -5,7 +5,6 @@ namespace RestWithASPNET.Services
 {
     public interface IPersonService
     {
-
         Person Create(Person person);
         Person FindById(long id);
 
@@ -13,6 +12,5 @@ namespace RestWithASPNET.Services
 
         Person Update(Person person);
         void Delete(long id);
-
     }
 }

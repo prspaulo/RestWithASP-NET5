@@ -74,3 +74,5 @@ C:\Users\Paulo\Documents\Estudos ASP-NET5\RestWithASP-NET5\04_RestWithASPNET_Per
 C:\Users\Paulo\Documents\Estudos ASP-NET5\RestWithASP-NET5\04_RestWithASPNET_PersonDB\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.pdb
 C:\Users\Paulo\Documents\Estudos ASP-NET5\RestWithASP-NET5\04_RestWithASPNET_PersonDB\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.genruntimeconfig.cache
 C:\Users\Paulo\Documents\Estudos ASP-NET5\RestWithASP-NET5\04_RestWithASPNET_PersonDB\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\ref\RestWithASPNET.dll
+C:\Users\Paulo\Documents\Estudos ASP-NET5\RestWithASP-NET5\04_RestWithASPNET_PersonDB\RestWithASPNET\RestWithASPNET\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Paulo\Documents\Estudos ASP-NET5\RestWithASP-NET5\04_RestWithASPNET_PersonDB\RestWithASPNET\RestWithASPNET\obj\Debug\net5.0\RestWithASPNET.MvcApplicationPartsAssemblyInfo.cs
